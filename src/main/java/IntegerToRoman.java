@@ -27,7 +27,7 @@ public class IntegerToRoman {
         map.put(500, "D");
         map.put(1000, "M");
 
-        HashMap<Integer, String> addmap = new HashMap<>();
+        HashMap<Integer, String> addmap = new HashMap();
         addmap.put(0, "0");
         addmap.put(1, "1");
         addmap.put(2, "1,1");
