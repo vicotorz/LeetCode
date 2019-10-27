@@ -2,7 +2,7 @@
  * LeetCode-74
  * 沿着右上角查找
  */
-public class search_a_2D_Matrix {
+public class Search_a_2D_Matrix {
     public boolean searchMatrix(int[][] matrix, int target) {
         if(matrix==null||matrix.length==0) {
             return false;

@@ -1,7 +1,9 @@
+import java.util.Arrays;
+
 /**
  * LeetCode-300
  */
-public class lengthOfLIS {
+public class LengthOfLIS {
     public int lengthOfLIS(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

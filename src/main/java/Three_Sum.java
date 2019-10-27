@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * LeetCode-15
  */
-public class three_Sum {
+public class Three_Sum {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         ArrayList<List<Integer>> result = new ArrayList();
