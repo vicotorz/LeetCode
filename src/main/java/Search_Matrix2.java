@@ -1,7 +1,7 @@
 /**
  * LeetCode-240
  */
-public class search_Matrix2 {
+public class Search_Matrix2 {
     public boolean searchMatrix(int[][] matrix, int target) {
         if(matrix==null||matrix.length==0) {
             return false;
