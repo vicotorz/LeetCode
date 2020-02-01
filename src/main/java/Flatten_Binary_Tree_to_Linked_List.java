@@ -14,4 +14,5 @@ public class Flatten_Binary_Tree_to_Linked_List {
             }
             root = root.right;
         }
+    }
 }
